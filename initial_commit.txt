@@ -1,1 +1,1 @@
-initial_commit.
+initial_commit
